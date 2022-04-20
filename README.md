@@ -1,7 +1,38 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A Electrical Engineer getting into the world of Software Development</h3>
+<img alt="Coding" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" align="right" height="300" width="450" align="right"/>
 
-- Currently studying Software Engineering and taking a Specialization Degree in Java
+### 👨‍🦱  about me ###
+- :octocat:  Back-end Developer
+- ⏳   I'm 40 years old
+- 💻  I'm most proficient with Java
+- 🌱  I’m currently learning *HTML, CSS, and Javascript*
+- 🎓  Studying Software Engineer in [Instituto Filadélfia](https://https://unifil.br/)
+- ⭐  Specializing in Java in [Universidade Tecnológica Federal do Paraná](http://www.utfpr.edu.br/)
+- ✅  Bacharel in Electrical Engineering
+- 👫  Married
+- 🐕  Kiara (Golden Retriever) and Smeagol (little NDR)
+- ⛹️‍♂️ 🚴‍♂️ 🏊‍♂️ 🏋️‍♂️ Love Sports
+- 📓  Role Playing Games
+- 🕹️ Computer Games 
+
+<p align="left">
+  💌 Contact me : 
+</p>
+
+<p align="left">
+  <a href="mailto:rhzaninelli@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/rodrigo-zaninelli/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5543999936933&" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.instagram.com/zaninellirodrigo/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
+
 
 ----
 
@@ -21,26 +52,18 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
 
-<p>
-  </p>
-
 
 ---
 
+<div> 
+ <h3 align="center">⭐  Statistics and Languages</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rhz23&show_icons=true&locale=en&layout=compact" alt="rhz23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhz23&show_icons=true&locale=en" alt="rhz23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rhz23&" alt="rhz23" /></p>
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-zaninelli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-zaninelli/" height="30" width="40" /></a>
-<a href="https://discord.gg/Rodrigo Zaninelli#0992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rodrigo Zaninelli#0992" height="30" width="40" /></a>
+ <p align="center"> 
+     <a href="https://github.com/rhz23">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhz23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhz23&layout=compact&langs_count=7&theme=dark"/>
 </p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhz23&label=Profile%20views&color=0e75b6&style=flat" alt="rhz23" /> </p>
 

@@ -65,6 +65,10 @@
 </p>
 </div>
 
+<p align="center">
+<img src="https://github.com/rhz23/rhz23/blob/output/github-contribution-grid-snake.svg">
+</p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhz23&label=Profile%20views&color=0e75b6&style=flat" alt="rhz23" /> </p>
 
 

@@ -63,6 +63,10 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhz23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhz23&layout=compact&langs_count=7&theme=dark"/>
 </p>
+
+   <p align="center">
+<img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rhz23&theme=dark&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727"/>
+  </p>
 </div>
 
 <p align="center">

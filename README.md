@@ -51,6 +51,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a> 
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70461502/165822132-60c52f14-24e5-4650-ba66-4d4ee3cb1b35.png" alt="rabbitmq" width="60" height="60"/> </a> 
+<a href="https://webrtc.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70461502/165822705-adf3b4b4-82c2-452b-915f-12ed45f363fb.svg" alt="rabbitmq" width="60" height="60"/> </a> 
 
 
 ---
